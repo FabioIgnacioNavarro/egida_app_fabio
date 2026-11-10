@@ -415,14 +415,4 @@ La aplicación móvil consume los siguientes servicios HTTP mediante el estánda
 
 ---
 
-## 👥 Contribución y Buenas Prácticas
-
-1. Crea una rama descriptiva para tu funcionalidad o corrección (`git checkout -b feature/nueva-funcionalidad`).
-2. Mantén la coherencia con el sistema de temas (dark navy `#0F172A` / `#10172B` y acentos de alerta `#FF4444`).
-3. Ejecuta `npm run lint` antes de realizar commits para mantener el estándar de código.
-4. Realiza tus commits con mensajes claros en español o inglés siguiendo las convenciones convencionales (`feat:`, `fix:`, `docs:`, etc.).
-5. Abre un Pull Request describiendo los cambios efectuados.
-
----
-
 Desarrollado como iniciativa de seguridad colaborativa y comunitaria con **Égida**. 🛡️
